@@ -1,0 +1,76 @@
+﻿@model LoanManagementDone.Models.MultipleAdminView
+@{
+    ViewBag.Title = "HandleLoanApplications";
+}
+@{
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<h2>Details</h2>
+<br />
+<br />
+<br />
+<br />
+<table class="table table-hover">
+
+
+    @{
+        var loanappid = Model.LoanApplicationAdminView.LoanApplicationId;
+    }
+
+
+    <tr>
+        <th>Customer ID</th>
+        <td>@Model.CustomerAdminview.CustomerId</td>
+    </tr>
+    <tr>
+        <th>Customer Name</th>
+        <td>@(Model.CustomerAdminview.FirstName + " " + Model.CustomerAdminview.MiddleName + " " + Model.CustomerAdminview.LastName)</td>
+    </tr>
+    <tr>
+        <th>Customer's Salary</th>
+        <td>@Model.CustomerAdminview.Income</td>
+    </tr>
+    <tr>
+        <th>Rating</th>
+        <td>@Model.CustomerAdminview.Rating</td>
+    </tr>
+    <tr>
+        <th>Loan Type</th>
+        <td>@Model.LoanTypesAdminView.LoanName</td>
+    </tr>
+    <tr>
+        <th>Loan Amount Asked</th>
+        <td>@Model.LoanApplicationAdminView.LoanAmount</td>
+    </tr>
+    <tr>
+        <th>Purpose</th>
+        <td>@Model.LoanApplicationAdminView.Purpose</td>
+    </tr>
+
+
+</table>
+@using (Html.BeginForm("ApproveApplications", "Admin", new { id = Model.LoanApplicationAdminView.LoanApplicationId }, FormMethod.Post))
+{
+    @Html.HiddenFor(m => m.LoanApplicationAdminView.LoanApplicationId)
+
+    <input type="submit" inline="true" class="btn btn-primary" value="Approve" />
+}
+@using (Html.BeginForm("DeclineApplications", "Admin", new { id = Model.LoanApplicationAdminView.LoanApplicationId }, FormMethod.Post))
+{
+    @Html.HiddenFor(m => m.LoanApplicationAdminView.LoanApplicationId)
+
+    <input type="submit" inline="true" class="btn btn-danger" value="Decline" />
+}
+
+<a href="/Admin/Index" inline="true" class="btn btn-info">Back to home Page</a>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />

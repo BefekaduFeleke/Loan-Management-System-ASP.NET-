@@ -1,0 +1,56 @@
+﻿@model LoanManagementDone.Models.LoanApplication
+
+@{
+    ViewBag.Title = "Loan Application Details";
+}
+@{
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<h2>Loan Application Details</h2>
+
+
+<table class="table table-hover">
+    @* <tr>
+            <th>LoanApplication Id</th>
+            <td>@Model.LoanApplicationId</td>
+        </tr>*@
+    <tr>
+        <th>Loan Control Number </th>
+        <td>@Model.LoanControlNumber </td>
+    </tr>
+    <tr>
+        <th>Loan Amount</th>
+        <td>@Model.LoanAmount</td>
+    </tr>
+    <tr>
+        <th>Purpose</th>
+        <td>@Model.Purpose</td>
+    </tr>
+    <tr>
+        <th>LoanApplicationSubmissionDate</th>
+        <td>@Model.LoanApplicationSubmissionDate</td>
+    </tr>
+    <tr>
+        <th>LoanApplicationApprovedDate</th>
+        <td>@Model.LoanApplicationApprovedDate</td>
+    </tr>
+    <tr>
+        <th>LoanStatus</th>
+        <td>@Model.LoanStatus</td>
+    </tr>
+
+
+</table>
+<a href="/Admin/Index" class="btn btn-info">Back to home Page</a>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+

@@ -1,0 +1,92 @@
+﻿@model List<LoanManagementDone.Models.LoanApplication>
+
+
+<br />
+<br />
+
+
+<!-- DataTables Example -->
+<div class="card mb-3">
+    <div class="card-header">
+        <i class="fas fa-table"></i>
+        <h3>Your Loan Applications</h3>
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>Loan Id</th>
+                        <th>Loan Control Number</th>
+                        <th>Loan Amount</th>
+                        <th>Purpose</th>
+                        <th>Loan Submission Date</th>
+                        <th>Loan Type</th>
+                        <th>Loan Status</th>
+                        <th>Details</th>
+                        <th>Edit</th>
+                        <th>Delete </th>
+                    </tr>
+                </thead>
+                <tfoot>
+                    <tr>
+                        <th>Loan Id</th>
+                        <th>Loan Control Number</th>
+                        <th>Loan Amount</th>
+                        <th>Purpose</th>
+                        <th>Loan Submission Date</th>
+                        <th>Loan Type</th>
+                        <th>Loan Status</th>
+                        <th>Details</th>
+                        <th>Edit</th>
+                        <th>Delete </th>
+                    </tr>
+                    <tr>
+                        <td colspan="11">  <a href="/Admin/SuretyCreate" class="btn btn-success "><i class="bi bi-plus-circle"></i>   Add New Customer</a></td>
+                    </tr>
+
+                </tfoot>
+                <tbody>
+
+                    @foreach (var loanApplication in Model)
+                    {
+                    <tr>
+                        <td>@loanApplication.LoanApplicationId</td>
+                        <td>@loanApplication.LoanControlNumber</td>
+
+                        <td>@loanApplication.LoanAmount</td>
+                        <td>@loanApplication.Purpose</td>
+                        <td>@loanApplication.LoanApplicationSubmissionDate</td>
+                        <td>@loanApplication.LoanType.LoanName</td>
+                    
+                        <td>@loanApplication.LoanStatus</td>
+
+                        <td>
+                            <a href="/Admin/Details/@loanApplication.LoanApplicationId" class="btn btn-info btn-rounded"><i class="bi bi-eye"></i>Details</a>
+                        </td>
+                        <td>
+                            <a href="/Admin/Edit/@loanApplication.LoanApplicationId" class="btn btn-primary btn-rounded"><i class="bi bi-pencil-square"></i>Edit</a>
+                        </td>
+                        <td>
+                            <a href="/Admin/Delete/@loanApplication.LoanApplicationId" class="btn btn-danger btn-rounded"><i class="bi bi-trash"></i>Delete</a>
+                        </td>
+                    </tr>
+                    }
+
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<div class="card-footer small text-muted">
+    Updated on<div id="current_date">
+
+
+        <script>
+            document.getElementById("current_date").innerHTML = Date();
+        </script>
+    </div>
+
+</div>

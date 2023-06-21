@@ -1,0 +1,680 @@
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\appsettings.json
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\LoanManagementDone.exe
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\LoanManagementDone.deps.json
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\LoanManagementDone.runtimeconfig.json
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\LoanManagementDone.runtimeconfig.dev.json
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\LoanManagementDone.dll
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\ref\LoanManagementDone.dll
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\LoanManagementDone.pdb
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\LoanManagementDone.Views.dll
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\LoanManagementDone.Views.pdb
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Humanizer.dll
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.csproj.AssemblyReference.cache
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.AssemblyInfoInputs.cache
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.AssemblyInfo.cs
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.csproj.CoreCompileInputs.cache
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.RazorAssemblyInfo.cache
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.RazorAssemblyInfo.cs
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\staticwebassets\LoanManagementDone.StaticWebAssets.Manifest.cache
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\staticwebassets\LoanManagementDone.StaticWebAssets.xml
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\scopedcss\bundle\LoanManagementDone.styles.css
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.TagHelpers.input.cache
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.TagHelpers.output.cache
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.RazorCoreGenerate.cache
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.RazorTargetAssemblyInfo.cache
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.RazorTargetAssemblyInfo.cs
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.Views.pdb
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.csproj.CopyComplete
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.dll
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\ref\LoanManagementDone.dll
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.pdb
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.genruntimeconfig.cache
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\Details.cshtml.g.cs
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\Create.cshtml.g.cs
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\Edit.cshtml.g.cs
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\Delete.cshtml.g.cs
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\SuretyCreate.cshtml.g.cs
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\LoanAppDetails.cshtml.g.cs
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Customer\LoanCreate.cshtml.g.cs
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Customer\Index.cshtml.g.cs
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Customer\MyLoans.cshtml.g.cs
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\befek\source\repos\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.csproj.AssemblyReference.cache
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.AssemblyInfoInputs.cache
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.AssemblyInfo.cs
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.csproj.CoreCompileInputs.cache
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.RazorAssemblyInfo.cache
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.RazorAssemblyInfo.cs
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.pdb
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\scopedcss\bundle\LoanManagementDone.styles.css
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\staticwebassets\LoanManagementDone.StaticWebAssets.Manifest.cache
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\staticwebassets\LoanManagementDone.StaticWebAssets.xml
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.TagHelpers.input.cache
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.TagHelpers.output.cache
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.RazorCoreGenerate.cache
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\Create.cshtml.g.cs
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\Delete.cshtml.g.cs
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\Details.cshtml.g.cs
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\Edit.cshtml.g.cs
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\LoanAppDetails.cshtml.g.cs
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\SuretyCreate.cshtml.g.cs
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Customer\Index.cshtml.g.cs
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Customer\LoanCreate.cshtml.g.cs
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Customer\MyLoans.cshtml.g.cs
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.RazorTargetAssemblyInfo.cache
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.RazorTargetAssemblyInfo.cs
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\appsettings.json
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\LoanManagementDone.StaticWebAssets.xml
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\LoanManagementDone.exe
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\LoanManagementDone.deps.json
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\LoanManagementDone.runtimeconfig.json
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\LoanManagementDone.runtimeconfig.dev.json
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\LoanManagementDone.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\LoanManagementDone.pdb
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\LoanManagementDone.Views.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\LoanManagementDone.Views.pdb
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.Views.pdb
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.csproj.CopyComplete
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.genruntimeconfig.cache
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\ref\LoanManagementDone.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\refint\LoanManagementDone.dll
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Role\Create.cshtml.g.cs
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Role\Index.cshtml.g.cs
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\BadCustomerList.cshtml.g.cs
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\BorrowerDelete.cshtml.g.cs
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\BorrowerDetails.cshtml.g.cs
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\BorrowerList.cshtml.g.cs
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\HandleLoanApplications.cshtml.g.cs
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\HandlePayment.cshtml.g.cs
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\LoanAppDelete.cshtml.g.cs
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\LoanApplications.cshtml.g.cs
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Customer\LoanAppDelete.cshtml.g.cs
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Customer\LoanAppDetails.cshtml.g.cs
+C:\Users\Abdellah\Pictures\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Customer\MyLoanstwo.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\ref\LoanManagementDone.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.pdb
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\appsettings.json
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\LoanManagementDone.StaticWebAssets.xml
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\LoanManagementDone.exe
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\LoanManagementDone.deps.json
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\LoanManagementDone.runtimeconfig.json
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\LoanManagementDone.runtimeconfig.dev.json
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\LoanManagementDone.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\ref\LoanManagementDone.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\LoanManagementDone.pdb
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\LoanManagementDone.Views.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\LoanManagementDone.Views.pdb
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Humanizer.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.csproj.AssemblyReference.cache
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.AssemblyInfoInputs.cache
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.AssemblyInfo.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.csproj.CoreCompileInputs.cache
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.RazorAssemblyInfo.cache
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.RazorAssemblyInfo.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\staticwebassets\LoanManagementDone.StaticWebAssets.Manifest.cache
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\staticwebassets\LoanManagementDone.StaticWebAssets.xml
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\scopedcss\bundle\LoanManagementDone.styles.css
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.TagHelpers.input.cache
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.TagHelpers.output.cache
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.RazorCoreGenerate.cache
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\BadCustomerList.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\BorrowerDelete.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\BorrowerDetails.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\BorrowerList.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\Create.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\Delete.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\Details.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\Edit.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\HandleLoanApplications.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\HandlePayment.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\LoanAppDelete.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\LoanAppDetails.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\LoanApplications.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\SuretyCreate.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Customer\Index.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Customer\LoanAppDelete.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Customer\LoanAppDetails.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Customer\LoanCreate.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Customer\MyLoans.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Customer\MyLoanstwo.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Role\Create.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Role\Index.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.RazorTargetAssemblyInfo.cache
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.RazorTargetAssemblyInfo.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.Views.pdb
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.csproj.CopyComplete
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.genruntimeconfig.cache
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_LoginPartial.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Customer\OngoingLoans.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Shared\AdminLayout.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\appsettings.json
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\LoanManagementDone.StaticWebAssets.xml
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\LoanManagementDone.exe
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\LoanManagementDone.deps.json
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\LoanManagementDone.runtimeconfig.json
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\LoanManagementDone.runtimeconfig.dev.json
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\LoanManagementDone.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\LoanManagementDone.pdb
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\LoanManagementDone.Views.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\LoanManagementDone.Views.pdb
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Humanizer.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.csproj.AssemblyReference.cache
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.AssemblyInfoInputs.cache
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.AssemblyInfo.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.csproj.CoreCompileInputs.cache
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.RazorAssemblyInfo.cache
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.RazorAssemblyInfo.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\scopedcss\bundle\LoanManagementDone.styles.css
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\staticwebassets\LoanManagementDone.StaticWebAssets.Manifest.cache
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\staticwebassets\LoanManagementDone.StaticWebAssets.xml
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.TagHelpers.input.cache
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.TagHelpers.output.cache
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.RazorCoreGenerate.cache
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_LoginPartial.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\BadCustomerList.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\BorrowerDelete.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\BorrowerDetails.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\BorrowerList.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\Create.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\Delete.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\Details.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\Edit.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\HandleLoanApplications.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\HandlePayment.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\LoanAppDelete.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\LoanAppDetails.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\LoanApplications.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Admin\SuretyCreate.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Customer\Index.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Customer\LoanAppDelete.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Customer\LoanAppDetails.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Customer\LoanCreate.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Customer\MyLoans.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Customer\MyLoanstwo.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Customer\OngoingLoans.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Role\Create.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Role\Index.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Shared\AdminLayout.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.RazorTargetAssemblyInfo.cache
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.RazorTargetAssemblyInfo.cs
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.Views.pdb
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.csproj.CopyComplete
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\refint\LoanManagementDone.dll
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.pdb
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\LoanManagementDone.genruntimeconfig.cache
+C:\Users\befek\OneDrive\Desktop\School Files\Summer\WebII\YYYYLoanManagementDone\LoanManagementDone\LoanManagementDone\obj\Debug\net5.0\ref\LoanManagementDone.dll

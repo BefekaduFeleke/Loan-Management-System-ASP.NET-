@@ -1,0 +1,107 @@
+﻿@model IEnumerable<LoanManagementDone.Models.MultipleAdminView>
+
+<br />
+<br />
+@{
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+
+<!-- DataTables Example -->
+<div class="card mb-3">
+    <div class="card-header">
+        <i class="fas fa-table"></i>
+        <h3>Loan Applications</h3>
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                <thead>
+                    <tr>
+
+                        <th>Loan Control Number</th>
+                        <th>Customer Name</th>
+                        <th>Loan Amount</th>
+                        <th>Total to be paid</th>
+                        <th>Purpose</th>
+                        <th>Loan Submission Date</th>
+                        <th>Loan Type</th>
+
+                        <th>Loan Status</th>
+                        <th>Details</th>
+                        <th>Give Response</th>
+                        <th>Delete </th>
+                    </tr>
+                </thead>
+                <tfoot>
+                    <tr>
+
+                        <th>Loan Control Number</th>
+                        <th>Customer Name</th>
+                        <th>Loan Amount</th>
+                        <th>Total to be paid</th>
+                        <th>Purpose</th>
+                        <th>Loan Submission Date</th>
+                        <th>Loan Type</th>
+
+                        <th>Loan Status</th>
+                        <th>Details</th>
+                        <th>Give Response</th>
+                        <th>Delete </th>
+                    </tr>
+                    <tr>
+                        <td colspan="11">  <a href="/Customer/LoanCreate" class="btn btn-success "><i class="bi bi-plus-circle"></i>   Add New Loan Application</a></td>
+                    </tr>
+
+                </tfoot>
+                <tbody>
+
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+
+
+                            <td>@item.LoanApplicationAdminView.LoanControlNumber</td>
+                            <td>@(item.CustomerAdminview.FirstName + " " + item.CustomerAdminview.MiddleName + " " + item.CustomerAdminview.LastName)</td>
+                            <td>@item.LoanApplicationAdminView.LoanAmount</td>
+                            <td>@item.LoanApplicationAdminView.TotalAmount</td>
+                            <td>@item.LoanApplicationAdminView.Purpose</td>
+                            <td>@item.LoanApplicationAdminView.LoanApplicationSubmissionDate</td>
+
+
+                            <td>@item.LoanTypesAdminView.LoanName</td>
+
+
+
+                            <td>@item.LoanApplicationAdminView.LoanStatus</td>
+
+                            <td>
+                                <a href="/Admin/LoanAppDetails/@item.LoanApplicationAdminView.LoanApplicationId" class="btn btn-primary btn-rounded"><i class="bi bi-eye"></i>Details</a>
+                            </td>
+                            <td>
+                                <a href="/Admin/HandleLoanApplications/@item.LoanApplicationAdminView.LoanApplicationId" class="btn btn-info btn-rounded"><i class="bi bi-eye"></i>Handle </a>
+                            </td>
+
+                            <td>
+                                <a href="/Admin/LoanAppDelete/@item.LoanApplicationAdminView.LoanApplicationId" class="btn btn-danger btn-rounded"><i class="bi bi-trash"></i>Delete</a>
+                            </td>
+                        </tr>
+                    }
+
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<div class="card-footer small text-muted">
+    Updated on<div id="current_date">
+
+
+        <script>
+            document.getElementById("current_date").innerHTML = Date();
+        </script>
+    </div>
+
+</div>

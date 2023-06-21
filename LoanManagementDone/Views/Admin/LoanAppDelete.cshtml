@@ -1,0 +1,73 @@
+﻿@model LoanManagementDone.Models.MultipleAdminView
+@{
+    ViewBag.Title = "HandleLoanApplications";
+}
+
+@{
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<br />
+<br />
+<br />
+<br />
+<h3>Are you sure you want to delete this Loan Application?</h3>
+<table class="table table-hover">
+
+
+    @{
+        var loanappid = Model.LoanApplicationAdminView.LoanApplicationId;
+    }
+
+
+    <tr>
+        <th>Customer ID</th>
+        <td>@Model.CustomerAdminview.CustomerId</td>
+    </tr>
+    <tr>
+        <th>Customer Name</th>
+        <td>@(Model.CustomerAdminview.FirstName + " " + Model.CustomerAdminview.MiddleName + " " + Model.CustomerAdminview.LastName)</td>
+    </tr>
+    <tr>
+        <th>Customer's Salary</th>
+        <td>@Model.CustomerAdminview.Income</td>
+    </tr>
+    <tr>
+        <th>Rating</th>
+        <td>@Model.CustomerAdminview.Rating</td>
+    </tr>
+    <tr>
+        <th>Loan Type</th>
+        <td>@Model.LoanTypesAdminView.LoanName</td>
+    </tr>
+    <tr>
+        <th>Loan Amount Asked</th>
+        <td>@Model.LoanApplicationAdminView.LoanAmount</td>
+    </tr>
+    <tr>
+        <th>Purpose</th>
+        <td>@Model.LoanApplicationAdminView.Purpose</td>
+    </tr>
+
+
+</table>
+<span>
+    @using (Html.BeginForm("DeleteLoanApp", "Admin", new { id = Model.LoanApplicationAdminView.LoanApplicationId }, FormMethod.Post))
+    {
+        @Html.HiddenFor(m => m.LoanApplicationAdminView.LoanApplicationId)
+
+        <input type="submit" class="btn btn-primary" value="Delete" />
+    }
+    <a href="/Admin/LoanApplications" class="btn btn-info">Back to home Page</a>
+</span>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />

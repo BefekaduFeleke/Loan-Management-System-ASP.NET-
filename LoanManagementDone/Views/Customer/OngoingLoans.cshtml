@@ -1,0 +1,98 @@
+﻿@model  IEnumerable<LoanManagementDone.Models.MultipleClassApplication>
+
+<br />
+<br />
+
+
+<!-- DataTables Example -->
+<div class="card mb-3">
+    <div class="card-header">
+        <i class="fas fa-table"></i>
+        <h3>Your Ongoing Loans</h3>
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                <thead>
+                    <tr>
+
+
+                        <th>Loan Control Number</th>
+                        <th>Loan Amount</th>
+                        <th>Total to be paid</th>
+
+                        <th>Loan Approval Date</th>
+                        <th>Payment Date</th>
+                        <th>Loan Type</th>
+
+                        <th>Payment Status</th>
+
+                    </tr>
+                </thead>
+                <tfoot>
+                    <tr>
+
+
+                        <th>Loan Control Number</th>
+                        <th>Loan Amount</th>
+                        <th>Total to be paid</th>
+
+                        <th>Loan Approval Date</th>
+                        <th>Payment Date</th>
+                        <th>Loan Type</th>
+                      
+                        <th>Payment Status</th>
+
+                    </tr>
+                    <tr>
+                        <td colspan="11">  <a href="/Customer/LoanCreate" class="btn btn-success "><i class="bi bi-plus-circle"></i>   Add New Loan Application</a></td>
+                    </tr>
+
+                </tfoot>
+                <tbody>
+
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+
+
+                            <td>@item.LoanApplicationsmultipleapp.LoanControlNumber</td>
+                     
+                            <td>@item.LoanApplicationsmultipleapp.LoanAmount</td>
+                            <td>@item.LoanApplicationsmultipleapp.TotalAmount</td>
+
+                            <td>@item.LoanApplicationsmultipleapp.LoanApplicationApprovedDate</td>
+                            <td>@item.LoanApplicationsmultipleapp.PaymentDate</td>
+
+
+                            <td>@item.LoanTypesmultipleapp.LoanName</td>
+
+
+
+                            <td>@item.LoanApplicationsmultipleapp.PaymentStatus</td>
+
+                            <td>
+                                <a href="/Admin/BorrowerDetails/@item.LoanApplicationsmultipleapp.LoanApplicationId" class="btn btn-info btn-rounded"><i class="bi bi-eye"></i>Details</a>
+                            </td>
+
+
+                        </tr>
+                    }
+
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<div class="card-footer small text-muted">
+    Updated on<div id="current_date">
+
+
+        <script>
+            document.getElementById("current_date").innerHTML = Date();
+        </script>
+    </div>
+
+</div>

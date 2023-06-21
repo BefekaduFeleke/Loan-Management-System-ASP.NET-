@@ -1,0 +1,99 @@
+﻿@model LoanManagementDone.Models.Customer
+
+@{
+    ViewBag.Title = "Details";
+}
+@{
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<h2>Details</h2>
+
+
+<table class="table table-hover">
+    <tr>
+        <th>Customer ID</th>
+        <td>@Model.CustomerId</td>
+    </tr>
+    <tr>
+        <th>Customer Name</th>
+        <td>@(Model.FirstName + " "+Model.MiddleName+" "+Model.LastName)</td>
+    </tr>
+    <tr>
+        <th>Date of Birth</th>
+        <td>@Model.DateOfBirth</td>
+    </tr>
+    <tr>
+        <th>Gender</th>
+        <td>@Model.Gender</td>
+    </tr>
+    <tr>
+        <th>Phone Number One</th>
+        <td>@Model.PhoneNumberOne</td>
+    </tr>
+    <tr>
+        <th>Phone Number Two</th>
+        <td>@Model.PhoneNumberTwo</td>
+    </tr>
+    <tr>
+        <th>Email</th>
+        <td>@Model.Email</td>
+    </tr>
+    <tr>
+        <th>Occupation</th>
+        <td>@Model.Occupation</td>
+
+    </tr>
+    <tr>
+        <th>Profile Picture</th>
+        <td>@Model.ProfilePicture</td>
+
+    </tr>
+    <tr>
+        <th>Id Type</th>
+        <td>@Model.IdType</td>
+
+    </tr>
+    <tr>
+        <th>ID Number</th>
+        <td>@Model.IdNumber</td>
+
+    </tr>
+    <tr>
+        <th>Id Issued Date</th>
+        <td>@Model.IdIssuedDate</td>
+
+    </tr>
+    <tr>
+        <th>Expiry Date</th>
+        <td>@Model.ExpiryDate</td>
+
+    </tr>
+    <tr>
+        <th>Income</th>
+        <td>@Model.Income</td>
+
+    </tr>
+    <tr>
+        <th>Income Proof Photo</th>
+        <td>@Model.IncomeProofPhoto</td>
+
+    </tr>
+    <tr>
+        <th>Rating</th>
+        <td>@Model.Rating</td>
+
+    </tr>
+
+</table>
+<a href="/Admin/Index" class="btn btn-info">Back to home Page</a>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />

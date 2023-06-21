@@ -1,0 +1,137 @@
+﻿@model LoanManagementDone.Models.LoanApplication
+
+
+@{
+    ViewBag.Title = "Create";
+}
+
+
+
+<h2>Create</h2>
+
+<br />
+<br />
+<br />
+<br />
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>Customer</h4>
+        <hr />
+        <form action="/customer/create" method="post">
+
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.LoanControlNumber, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.LoanControlNumber, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.LoanControlNumber, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.LoanAmount, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.LoanAmount, new { htmlAttributes = new { @class = "form-control loanamount" } })
+                    @Html.ValidationMessageFor(model => model.LoanAmount, "", new { @class = "text-danger" })
+
+                </div>
+            </div>
+
+            <script>
+                $(document).ready(function () {
+                    $('.loanamount').on('change', function () {
+                        var loanamount = $('.loanamount').val();
+                        /* var unitamount = $('.unitAmount').val();*/
+                        var charge = 1.1;
+                        var totaltobepaid = loanamount * charge;
+
+                        $("#totalPrice").text(totaltobepaid);
+                        $("#AmountToBePaid").text(totaltobepaid);
+                        viewbag.totaltobepaid = totaltobepaid;
+
+
+                    });
+                });
+            </script>
+            <div class="form-group">
+                The Amount you will pay is:  <label style="color: teal;font-weight: 500;" id="totalPrice"></label>
+
+
+            </div>
+
+
+
+            @*@Html.HiddenFor(model=>model.AmountToBePaid)*@
+
+
+
+
+
+
+
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Purpose, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Purpose, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Purpose, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+
+
+           
+
+            @*<div class="form-group">
+        @Html.LabelFor(model => model.Remarks, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+        @Html.EditorFor(model => model.Remarks, new { htmlAttributes = new { @class = "form-control" } })
+        @Html.ValidationMessageFor(model => model.Remarks, "", new { @class = "text-danger" })
+        </div>
+        </div>*@
+
+
+
+
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.LoanTypeId, htmlAttributes: new { @class = "control-label col-md-2" })
+
+
+                @Html.DropDownListFor(model => model.LoanTypeId, new List<SelectListItem>
+            {
+            new SelectListItem{ Text="1 Month", Value = "2" },
+            new SelectListItem{ Text="3 Month", Value = "3" },
+            new SelectListItem{ Text="6 Month ", Value = "4" }
+
+
+
+            })
+
+
+            </div>
+
+
+
+
+        </form>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-primary" /> | <a href="/Customer/Myloanstwo" class="btn btn-info btn-rounded"><i class="bi bi-eye"></i>Back to list</a>
+            </div>
+        </div>
+    </div>
+}
+
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
